@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "jum",
+    "tiempo_por_partida": "2",
+    "cantidad_jugadores": "3",
+    "existencia": "4"
+  },
+  {
+    "nombre": "parques",
+    "tiempo_por_partida": "5",
+    "cantidad_jugadores": "2",
+    "existencia": "6"
+  },
+  {
+    "nombre": "uno",
+    "tiempo_por_partida": "2",
+    "cantidad_jugadores": "4",
+    "existencia": "1"
+  }
+]
